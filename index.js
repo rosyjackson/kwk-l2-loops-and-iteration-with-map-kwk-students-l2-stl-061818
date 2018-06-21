@@ -2,5 +2,6 @@
 
 
 function lowerCaseStudentNames() {
-  let lowerCaseStudentNames = ['Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor']
+  let studentNames = ['Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor']
+  return lowerCaseStudentNames 
 }
