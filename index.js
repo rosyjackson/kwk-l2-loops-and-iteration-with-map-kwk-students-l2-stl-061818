@@ -10,6 +10,6 @@ return list.map(other)
 
 let students = ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence', 'Natalie Portman'];
 
-function nameToAttributes(){
-  
+function nameToAttributes(students){
+  return students.split();
 }
