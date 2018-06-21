@@ -12,5 +12,6 @@ const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', '
 
 function nameToAttributes(firstName,lastName) {
 return firstName.split(nameToAttributes)
+return lastName.split(nameToAttributes)
 }
 
