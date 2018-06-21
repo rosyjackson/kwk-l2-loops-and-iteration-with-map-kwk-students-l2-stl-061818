@@ -6,6 +6,8 @@ function lowerCaseStudentNames() {
   return studentNames;
 }
 
+const students = [Adele', 'Beyoncé', 'Lady', 'Madonna', 'Rihanna', 'Taylor'];
+
 [
   { firstName: 'Mary',   lastName: 'Cassatt'     },
   { firstName: 'Joan',   lastName: 'Mitchell'   },
