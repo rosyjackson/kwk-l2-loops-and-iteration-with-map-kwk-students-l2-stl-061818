@@ -26,3 +26,4 @@ const studentLast = name.split(" ")[1];
 function nameToAttributes(list){
   return list.map(splitName);
 }
+
