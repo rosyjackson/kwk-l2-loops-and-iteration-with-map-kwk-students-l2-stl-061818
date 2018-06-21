@@ -27,3 +27,20 @@ function nameToAttributes(list){
   return list.map(splitName);
 }
 
+function attributesToPhrase(){
+  return 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
