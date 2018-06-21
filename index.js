@@ -15,5 +15,4 @@ const students = ['mary', 'joan', 'eva', 'frida', 'taylor', 'agnes'];
   { firstName: 'Frida', lastName: 'Kahlo'    },
   { firstName: 'Taylor',   lastName: 'Swift' },
   { firstName: 'Agnes',   lastName: 'Martin'     }
-  return firstName ; lastName
 ];
