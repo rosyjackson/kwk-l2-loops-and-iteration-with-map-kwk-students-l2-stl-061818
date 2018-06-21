@@ -8,3 +8,4 @@ function lowerCaseStudentNames(list) {
 return list.map(other) 
 }
 
+const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin'];
