@@ -17,4 +17,4 @@ const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', '
   { firstName: 'Frida', lastName: 'Kahlo'    },
   { firstName: 'Taylor',   lastName: 'Swift' },
   { firstName: 'Agnes',   lastName: 'Martin'     }
-return const student];
+];
