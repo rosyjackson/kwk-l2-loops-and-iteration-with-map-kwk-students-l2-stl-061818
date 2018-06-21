@@ -8,7 +8,7 @@ function lowerCaseStudentNames(list) {
 return list.map(other) 
 }
 
-const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin'];
+let students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin'];
 
 function nameToAttributes(firstName,lastName) {
 return firstName.split(nameToAttributes)
