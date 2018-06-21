@@ -13,3 +13,16 @@ let students = ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence'
 function nameToAttributes(students){
   return students.split();
 }
+
+function splitName(name) {
+  const studentFirst = name.split(" ")[0];
+const studentLast = name.split(" ")[1];
+ 
+ return {
+   firstName : studentFirst, lastName : studentLast
+ }; 
+}
+
+function nameToAttributes(list){
+  return list.map(splitName);
+}
