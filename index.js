@@ -28,7 +28,7 @@ function nameToAttributes(list){
 }
 
 function attributesToPhrase(){
-  return 
+  const = ''
 }
 
 
