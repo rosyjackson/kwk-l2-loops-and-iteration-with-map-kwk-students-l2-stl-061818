@@ -10,7 +10,7 @@ return list.map(other)
 
 const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin'];
 
-function nameToAttributes (names){
+function nameToAttributes (people){
  ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence', 'Natalie Portman']
- return names.split
+ return names.split(people)
 }
