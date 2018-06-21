@@ -15,5 +15,5 @@ return firstName.split(nameToAttributes);
 }
 
 function nameToAttribute(lastName){
-  return lastName.split(nameToAttribute);
+  return students.split(nameToAttribute);
 }
