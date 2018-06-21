@@ -8,7 +8,7 @@ function lowerCaseStudentNames(list) {
 return list.map(other) 
 }
 
-let students = ;
+let students = ['Amy Adams', 'Cate Blanchett', 'Emma Stone', 'Jennifer Lawrence', 'Natalie Portman'];
 
 function nameToAttributes(){
   
