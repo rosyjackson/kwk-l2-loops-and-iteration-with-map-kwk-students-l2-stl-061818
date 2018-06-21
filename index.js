@@ -10,8 +10,10 @@ return list.map(other)
 
 let students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin'];
 
-function nameToAttributes(firstName,lastName) {
-return firstName.split(nameToAttributes)
-return lastName.split(nameToAttributes)
+function nameToAttributes(firstName) {
+return firstName.split(nameToAttributes);
 }
 
+function nameToAttribute(lastName){
+  return lastName.split(nameToAttribute);
+}
